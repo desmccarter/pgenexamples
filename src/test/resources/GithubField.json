@@ -1,0 +1,53 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Required Field Fdf 1",
+			"byExpr" : "required_field_fdf1",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Required Field C 3ee",
+			"byExpr" : "required_field_c3ee",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Q",
+			"byExpr" : "q",
+			"byType" : "name",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "User Login",
+			"byExpr" : "user[login]",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "User Email",
+			"byExpr" : "user[email]",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "User Password",
+			"byExpr" : "user[password]",
+			"byType" : "id",
+			"htmlType" : "password"
+		}
+		,
+		{
+			"name" : "Sign  Up  For Git Hub",
+			"byExpr" : "//button[contains(text(),'Sign up for GitHub')]",
+			"byType" : "xpath",
+			"htmlType" : "submit"
+		}
+		]
+}

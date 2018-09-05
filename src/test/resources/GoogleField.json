@@ -1,0 +1,25 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Q",
+			"byExpr" : "q",
+			"byType" : "name",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Google Search",
+			"byExpr" : "btnG",
+			"byType" : "name",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "I M Feeling Lucky",
+			"byExpr" : "btnI",
+			"byType" : "name",
+			"htmlType" : "submit"
+		}
+		]
+}

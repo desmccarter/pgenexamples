@@ -1,0 +1,3056 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Userid",
+			"byExpr" : "Username1",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Cookieuserid",
+			"byExpr" : "cookieuserid",
+			"byType" : "id",
+			"htmlType" : "checkbox"
+		}
+		,
+		{
+			"name" : "Id Session",
+			"byExpr" : "cobrowseIDSession1",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Checkbox",
+			"byExpr" : "checkbox",
+			"byType" : "id",
+			"htmlType" : "checkbox"
+		}
+		,
+		{
+			"name" : "Query String",
+			"byExpr" : "q",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Start Search",
+			"byExpr" : "go",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Close Menu",
+			"byExpr" : "//button[contains(text(),'Close menu')]",
+			"byType" : "xpath",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 1",
+			"byExpr" : "fermerCob1",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 2",
+			"byExpr" : "fermerCob2",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 3",
+			"byExpr" : "fermerCob3",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 4",
+			"byExpr" : "fermerCob4",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Personal",
+			"byExpr" : "//a[contains(text(),'Personal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Business",
+			"byExpr" : "//a[contains(text(),'Business')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log On",
+			"byExpr" : "//a[contains(text(),'Log On')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log Out",
+			"byExpr" : "//a[contains(text(),'Log Out')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Account",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Advance Account",
+			"byExpr" : "//a[contains(text(),'HSBC Advance Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Student Account",
+			"byExpr" : "//a[contains(text(),'HSBC Student Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bank Account",
+			"byExpr" : "//a[contains(text(),'Bank Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Switching To HSBC",
+			"byExpr" : "//a[contains(text(),'Switching to HSBC')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "View All",
+			"byExpr" : "//a[contains(text(),'View all')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "ISAs",
+			"byExpr" : "//a[contains(text(),'ISAs')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Online Bonus Saver",
+			"byExpr" : "//a[contains(text(),'Online Bonus Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexible Saver",
+			"byExpr" : "//a[contains(text(),'Flexible Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 32 Month Balance Transfer Credit Card",
+			"byExpr" : "//a[contains(text(),'32 Month Balance Transfer Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Advance Credit Card",
+			"byExpr" : "//a[contains(text(),'Advance Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Dual Credit Card",
+			"byExpr" : "//a[contains(text(),'Dual Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Classic Credit Card",
+			"byExpr" : "//a[contains(text(),'Classic Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Credit Card",
+			"byExpr" : "//a[contains(text(),'Premier Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier World Elite Mastercard",
+			"byExpr" : "//a[contains(text(),'Premier World Elite Mastercard')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Credit Card",
+			"byExpr" : "//a[contains(text(),'Student Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways To Bank",
+			"byExpr" : "//a[contains(text(),'Ways to bank')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Voice ID",
+			"byExpr" : "//a[contains(text(),'Voice ID')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Contact Amp Support",
+			"byExpr" : "//a[contains(text(),'Contact &amp; Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find A Branch",
+			"byExpr" : "//a[contains(text(),'Find a Branch')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Currency Account",
+			"byExpr" : "//a[contains(text(),'HSBC Currency Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "International Payments",
+			"byExpr" : "//a[contains(text(),'International Payments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Money",
+			"byExpr" : "//a[contains(text(),'Travel money')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Personal Loan",
+			"byExpr" : "//a[contains(text(),'Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Car Loan",
+			"byExpr" : "//a[contains(text(),'Car Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexiloan",
+			"byExpr" : "//a[contains(text(),'Flexiloan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Personal Loan",
+			"byExpr" : "//a[contains(text(),'Premier Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Graduate Loan",
+			"byExpr" : "//a[contains(text(),'Graduate Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "First Time Buyer",
+			"byExpr" : "//a[contains(text(),'First time buyer')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Remortgage",
+			"byExpr" : "//a[contains(text(),'Remortgage')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Buy To Let",
+			"byExpr" : "//a[contains(text(),'Buy to let')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Existing Homeowner",
+			"byExpr" : "//a[contains(text(),'Existing homeowner')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Rates",
+			"byExpr" : "//a[contains(text(),'Mortgage rates')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Armed Forces Personnel",
+			"byExpr" : "//a[contains(text(),'Armed Forces Personnel')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Help Amp Support",
+			"byExpr" : "//a[contains(text(),'Help &amp; Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Money Worries",
+			"byExpr" : "//a[contains(text(),'Money Worries')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Calculator",
+			"byExpr" : "//a[contains(text(),'Mortgage calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overpayment Calculator",
+			"byExpr" : "//a[contains(text(),'Overpayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Repayment Calculator",
+			"byExpr" : "//a[contains(text(),'Repayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Base Rate Information",
+			"byExpr" : "//a[contains(text(),'Base rate information')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investment Funds",
+			"byExpr" : "//a[contains(text(),'Investment funds')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "World Selection ISA",
+			"byExpr" : "//a[contains(text(),'World Selection ISA')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Sharedealing",
+			"byExpr" : "//a[contains(text(),'Sharedealing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Financial Advice",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Financial Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Stand Alone Investment Advice",
+			"byExpr" : "//a[contains(text(),'HSBC Stand-alone Investment Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Onshore Investment Bond",
+			"byExpr" : "//a[contains(text(),'HSBC Onshore Investment Bond')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Child Trust Fund",
+			"byExpr" : "//a[contains(text(),'Child Trust fund')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find Out More",
+			"byExpr" : "//a[contains(text(),'Find out more')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log On To Global Investment Centre",
+			"byExpr" : "//a[contains(text(),'Log on to Global Investment Centre')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log On To Sharedealing",
+			"byExpr" : "//a[contains(text(),'Log on to Sharedealing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investments Contacts",
+			"byExpr" : "//a[contains(text(),'Investments contacts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Existing Selected Investments Customers",
+			"byExpr" : "//a[contains(text(),'Existing Selected Investments Customers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Getting Started With Investing",
+			"byExpr" : "//a[contains(text(),'Getting started with investing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance",
+			"byExpr" : "//a[contains(text(),'Home Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance",
+			"byExpr" : "//a[contains(text(),'Travel Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Insurance",
+			"byExpr" : "//a[contains(text(),'Student Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Cover",
+			"byExpr" : "//a[contains(text(),'Life Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Critical Illness Cover",
+			"byExpr" : "//a[contains(text(),'Critical Illness Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Income Cover",
+			"byExpr" : "//a[contains(text(),'Income Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Telephone Protection Advice",
+			"byExpr" : "//a[contains(text(),'Telephone Protection Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance Claims",
+			"byExpr" : "//a[contains(text(),'Home Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance Claims",
+			"byExpr" : "//a[contains(text(),'Travel Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Car Insurance Claims",
+			"byExpr" : "//a[contains(text(),'Car Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bereavement Support",
+			"byExpr" : "//a[contains(text(),'Bereavement support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Separation Support",
+			"byExpr" : "//a[contains(text(),'Separation support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Settling In The UK",
+			"byExpr" : "//a[contains(text(),'Settling in the UK')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Getting Married",
+			"byExpr" : "//a[contains(text(),'Getting married')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Planning Your Retirement",
+			"byExpr" : "//a[contains(text(),'Planning your retirement')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Growing Your Wealth",
+			"byExpr" : "//a[contains(text(),'Growing your wealth')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Moving Abroad",
+			"byExpr" : "//a[contains(text(),'Moving abroad')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Financial Health Check",
+			"byExpr" : "//a[contains(text(),'Financial health check')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Learn More",
+			"byExpr" : "//a[contains(text(),'Learn more')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways We Can Help",
+			"byExpr" : "//a[contains(text(),'Ways we can help')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Frequently Asked Questions",
+			"byExpr" : "//a[contains(text(),'Frequently asked questions')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Book Your Review Today For A Quick Financial Checkup",
+			"byExpr" : "//a[contains(text(),'Book your review today for a quick financial checkup')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Legal",
+			"byExpr" : "//a[contains(text(),'Legal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Privacy Notice",
+			"byExpr" : "//a[contains(text(),'Privacy Notice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cookie Policy",
+			"byExpr" : "//a[contains(text(),'Cookie Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Accessibility",
+			"byExpr" : "//a[contains(text(),'Accessibility')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "UK Ring Fencing",
+			"byExpr" : "//a[contains(text(),'UK Ring-fencing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hp Intro Button 1",
+			"byExpr" : "hp_intro_button_1",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hp Socialmediafooterlink 1",
+			"byExpr" : "hp_socialmediafooterlink_1",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hp Socialmediafooterlink 2",
+			"byExpr" : "hp_socialmediafooterlink_2",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hp Socialmediafooterlink 3",
+			"byExpr" : "hp_socialmediafooterlink_3",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Close",
+			"byExpr" : "//a[contains(text(),'close')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip Page Header And Navigation",
+			"byExpr" : "skip",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Personal 2",
+			"byExpr" : "//a[contains(text(),'Personal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Business 2",
+			"byExpr" : "//a[contains(text(),'Business')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "English",
+			"byExpr" : "//a[contains(text(),'English')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Move To Borrowing Navigation",
+			"byExpr" : "//a[contains(text(),'Move to Borrowing navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Current Accounts",
+			"byExpr" : "//a[contains(text(),'Current accounts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Account 2",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Advance Account 2",
+			"byExpr" : "//a[contains(text(),'HSBC Advance Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bank Account 2",
+			"byExpr" : "//a[contains(text(),'Bank Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Account",
+			"byExpr" : "//a[contains(text(),'Student Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Switching To HSBC 2",
+			"byExpr" : "//a[contains(text(),'Switching to HSBC')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Savings",
+			"byExpr" : "//a[contains(text(),'Savings')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "ISAs 2",
+			"byExpr" : "//a[contains(text(),'ISAs')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Online Bonus Saver 2",
+			"byExpr" : "//a[contains(text(),'Online Bonus Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexible Saver 2",
+			"byExpr" : "//a[contains(text(),'Flexible Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Customer Support",
+			"byExpr" : "//a[contains(text(),'Customer support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Card Support",
+			"byExpr" : "//a[contains(text(),'Card support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Money Worries 2",
+			"byExpr" : "//a[contains(text(),'Money worries')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways To Bank 2",
+			"byExpr" : "//a[contains(text(),'Ways to bank')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Credit Cards",
+			"byExpr" : "//a[contains(text(),'Credit cards')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Credit Card",
+			"byExpr" : "//a[contains(text(),'HSBC Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Credit Card",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Credit Card 2",
+			"byExpr" : "//a[contains(text(),'Student Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "International Services",
+			"byExpr" : "//a[contains(text(),'International services')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Currency Account 2",
+			"byExpr" : "//a[contains(text(),'HSBC Currency Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "International Payments 2",
+			"byExpr" : "//a[contains(text(),'International Payments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Money 2",
+			"byExpr" : "//a[contains(text(),'Travel money')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overseas Account Opening",
+			"byExpr" : "//a[contains(text(),'Overseas account opening')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Move To Investing Navigation",
+			"byExpr" : "//a[contains(text(),'Move to Investing navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Loans",
+			"byExpr" : "//a[contains(text(),'Loans')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Personal Loan 2",
+			"byExpr" : "//a[contains(text(),'Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexi Loan",
+			"byExpr" : "//a[contains(text(),'FlexiLoan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Personal Loan 2",
+			"byExpr" : "//a[contains(text(),'Premier Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Graduate Loan 2",
+			"byExpr" : "//a[contains(text(),'Graduate Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Classic Credit Card 2",
+			"byExpr" : "//a[contains(text(),'Classic Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Visa Credit Card",
+			"byExpr" : "//a[contains(text(),'Student Visa Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgages",
+			"byExpr" : "//a[contains(text(),'Mortgages')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "First Time Buyer 2",
+			"byExpr" : "//a[contains(text(),'First time buyer')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Buy To Let 2",
+			"byExpr" : "//a[contains(text(),'Buy to let')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Compare Mortgages",
+			"byExpr" : "//a[contains(text(),'Compare mortgages')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "How Much Can I Borrow",
+			"byExpr" : "//a[contains(text(),'How much can I borrow?')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Existing Customers",
+			"byExpr" : "//a[contains(text(),'Existing customers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overpayment Calculator 2",
+			"byExpr" : "//a[contains(text(),'Overpayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Repayment Calculator 2",
+			"byExpr" : "//a[contains(text(),'Repayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Help Amp Guidance",
+			"byExpr" : "//a[contains(text(),'Help &amp; guidance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overdraft Service",
+			"byExpr" : "//a[contains(text(),'Overdraft service')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Taking Control Of Your Finances",
+			"byExpr" : "//a[contains(text(),'Taking control of your finances')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Managing Your Mortgage Payments",
+			"byExpr" : "//a[contains(text(),'Managing your mortgage payments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Buying Your First Home",
+			"byExpr" : "//a[contains(text(),'Buying your first home')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Jargon Buster",
+			"byExpr" : "//a[contains(text(),'Mortgage jargon buster')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Move To Insurance Navigation",
+			"byExpr" : "//a[contains(text(),'Move to Insurance navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investments",
+			"byExpr" : "//a[contains(text(),'Investments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investment Funds 2",
+			"byExpr" : "//a[contains(text(),'Investment funds')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Selected Investment Funds ISA",
+			"byExpr" : "//a[contains(text(),'Selected Investment Funds ISA')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Sharedealing 2",
+			"byExpr" : "//a[contains(text(),'Sharedealing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Financial Advice 2",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Financial Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Child Trust Fund 2",
+			"byExpr" : "//a[contains(text(),'Child Trust Fund')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Global Investment Centre",
+			"byExpr" : "//a[contains(text(),'Global Investment Centre')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Financial News And Analysis",
+			"byExpr" : "//a[contains(text(),'Financial news and analysis.')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Why Invest With Us",
+			"byExpr" : "//a[contains(text(),'Why invest with us?')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Move Planning Navigation",
+			"byExpr" : "//a[contains(text(),'Move Planning navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel",
+			"byExpr" : "//a[contains(text(),'Travel')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance 2",
+			"byExpr" : "//a[contains(text(),'Travel Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Travel Insurance",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Travel Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance 2",
+			"byExpr" : "//a[contains(text(),'Home Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "View All HSBC Insurance Options",
+			"byExpr" : "//a[contains(text(),'View all HSBC Insurance options')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance Claims 2",
+			"byExpr" : "//a[contains(text(),'Home Insurance claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance Claims 2",
+			"byExpr" : "//a[contains(text(),'Travel Insurance claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Travel Insurance Claims",
+			"byExpr" : "//a[contains(text(),'Premier Travel Insurance claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Move To Site Search",
+			"byExpr" : "//a[contains(text(),'Move to site search')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Events",
+			"byExpr" : "//a[contains(text(),'Life events')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bereavement Support 2",
+			"byExpr" : "//a[contains(text(),'Bereavement support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Separation Support 2",
+			"byExpr" : "//a[contains(text(),'Separation support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Settling In The UK 2",
+			"byExpr" : "//a[contains(text(),'Settling in the UK')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Getting Married 2",
+			"byExpr" : "//a[contains(text(),'Getting married')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Planning Your Retirement 2",
+			"byExpr" : "//a[contains(text(),'Planning your retirement')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Growing Your Wealth 2",
+			"byExpr" : "//a[contains(text(),'Growing your wealth')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Moving Abroad 2",
+			"byExpr" : "//a[contains(text(),'Moving abroad')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Planning Tools",
+			"byExpr" : "//a[contains(text(),'Planning tools')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Financial Health Check 2",
+			"byExpr" : "//a[contains(text(),'Financial health check')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Protecting What Matters",
+			"byExpr" : "//a[contains(text(),'Protecting what matters')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Learn More 2",
+			"byExpr" : "//a[contains(text(),'Learn more')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways We Can Help 2",
+			"byExpr" : "//a[contains(text(),'Ways we can help')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Frequently Asked Questions 2",
+			"byExpr" : "//a[contains(text(),'Frequently asked questions')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Register For Online Banking",
+			"byExpr" : "//a[contains(text(),'Register for Online Banking')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Register",
+			"byExpr" : "//a[contains(text(),'Register')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log On 2",
+			"byExpr" : "//a[contains(text(),'Log on')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Www Ciiom Hsbc Com",
+			"byExpr" : "//a[contains(text(),'www.ciiom.hsbc.com')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log On To Business Internet Banking",
+			"byExpr" : "//a[contains(text(),'Log on to Business Internet Banking')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Apply",
+			"byExpr" : "//a[contains(text(),'Apply')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Activate",
+			"byExpr" : "//a[contains(text(),'Activate')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find Out More About Online Banking",
+			"byExpr" : "//a[contains(text(),'Find out more about Online Banking')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Lost Damaged And Stolen Secure Keys",
+			"byExpr" : "//a[contains(text(),'Lost, damaged and stolen Secure Keys')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Security Downloads",
+			"byExpr" : "//a[contains(text(),'Security downloads')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Help Amp Support 2",
+			"byExpr" : "//a[contains(text(),'Help &amp; Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find A Branch 2",
+			"byExpr" : "//a[contains(text(),'Find a branch')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Website Feedback",
+			"byExpr" : "//a[contains(text(),'Website feedback')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Support",
+			"byExpr" : "//a[contains(text(),'Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Security Centre",
+			"byExpr" : "//a[contains(text(),'Security centre')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Co Browse",
+			"byExpr" : "//a[contains(text(),'CoBrowse')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "About HSBC",
+			"byExpr" : "//a[contains(text(),'About HSBC')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Site Map",
+			"byExpr" : "//a[contains(text(),'Site map')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Legal 2",
+			"byExpr" : "//a[contains(text(),'Legal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Privacy Notice 2",
+			"byExpr" : "//a[contains(text(),'Privacy notice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cookie Policy 2",
+			"byExpr" : "//a[contains(text(),'Cookie Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Accessibility 2",
+			"byExpr" : "//a[contains(text(),'Accessibility')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Group",
+			"byExpr" : "//a[contains(text(),'HSBC Group')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Europe",
+			"byExpr" : "//a[contains(text(),'Europe')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "AsiaPacific",
+			"byExpr" : "//a[contains(text(),'Asia-Pacific')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Middle East Amp Africa",
+			"byExpr" : "//a[contains(text(),'Middle East &amp; Africa')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Americas",
+			"byExpr" : "//a[contains(text(),'Americas')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Armenia",
+			"byExpr" : "//a[contains(text(),'Armenia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Channel Islands And Isle Of Man",
+			"byExpr" : "//a[contains(text(),'Channel Islands and Isle of Man')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Czech Republic",
+			"byExpr" : "//a[contains(text(),'Czech Republic')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " Esk Republika",
+			"byExpr" : "//a[contains(text(),'Česká republika')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Germany",
+			"byExpr" : "//a[contains(text(),'Germany')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Greece",
+			"byExpr" : "//a[contains(text(),'Greece')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Expat",
+			"byExpr" : "//a[contains(text(),'HSBC Expat')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hungary",
+			"byExpr" : "//a[contains(text(),'Hungary')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ireland",
+			"byExpr" : "//a[contains(text(),'Ireland')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Kazakhstan",
+			"byExpr" : "//a[contains(text(),'Kazakhstan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Malta",
+			"byExpr" : "//a[contains(text(),'Malta')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Poland",
+			"byExpr" : "//a[contains(text(),'Poland')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Polska",
+			"byExpr" : "//a[contains(text(),'Polska')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Russia",
+			"byExpr" : "//a[contains(text(),'Russia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Slovakia",
+			"byExpr" : "//a[contains(text(),'Slovakia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Slovensko",
+			"byExpr" : "//a[contains(text(),'Slovensko')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Spain",
+			"byExpr" : "//a[contains(text(),'Spain')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Espa A",
+			"byExpr" : "//a[contains(text(),'España')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Switzerland",
+			"byExpr" : "//a[contains(text(),'Switzerland')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Turkey",
+			"byExpr" : "//a[contains(text(),'Turkey')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "T Rkiye",
+			"byExpr" : "//a[contains(text(),'Türkiye')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "United Kingdom",
+			"byExpr" : "//a[contains(text(),'United Kingdom')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Australia",
+			"byExpr" : "//a[contains(text(),'Australia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bangladesh",
+			"byExpr" : "//a[contains(text(),'Bangladesh')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Brunei Darussalam",
+			"byExpr" : "//a[contains(text(),'Brunei Darussalam')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "China",
+			"byExpr" : "//a[contains(text(),'China')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hong Kong",
+			"byExpr" : "//a[contains(text(),'Hong Kong')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "India",
+			"byExpr" : "//a[contains(text(),'India')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Japan",
+			"byExpr" : "//a[contains(text(),'Japan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Korea",
+			"byExpr" : "//a[contains(text(),'Korea')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Macau",
+			"byExpr" : "//a[contains(text(),'Macau')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Malaysia",
+			"byExpr" : "//a[contains(text(),'Malaysia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Maldives",
+			"byExpr" : "//a[contains(text(),'Maldives')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "New Zealand",
+			"byExpr" : "//a[contains(text(),'New Zealand')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Pakistan",
+			"byExpr" : "//a[contains(text(),'Pakistan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Philippines",
+			"byExpr" : "//a[contains(text(),'Philippines')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Singapore",
+			"byExpr" : "//a[contains(text(),'Singapore')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Sri Lanka",
+			"byExpr" : "//a[contains(text(),'Sri Lanka')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Taiwan",
+			"byExpr" : "//a[contains(text(),'Taiwan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Thailand",
+			"byExpr" : "//a[contains(text(),'Thailand')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Vietnam",
+			"byExpr" : "//a[contains(text(),'Vietnam')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Vi T Nam",
+			"byExpr" : "//a[contains(text(),'Việt Nam')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Algeria",
+			"byExpr" : "//a[contains(text(),'Algeria')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Egypt",
+			"byExpr" : "//a[contains(text(),'Egypt')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Jordan",
+			"byExpr" : "//a[contains(text(),'Jordan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Kuwait",
+			"byExpr" : "//a[contains(text(),'Kuwait')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Lebanon",
+			"byExpr" : "//a[contains(text(),'Lebanon')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mauritius",
+			"byExpr" : "//a[contains(text(),'Mauritius')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Oman",
+			"byExpr" : "//a[contains(text(),'Oman')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Saudi Arabia",
+			"byExpr" : "//a[contains(text(),'Saudi Arabia')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "South Africa",
+			"byExpr" : "//a[contains(text(),'South Africa')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Argentina",
+			"byExpr" : "//a[contains(text(),'Argentina')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bermuda",
+			"byExpr" : "//a[contains(text(),'Bermuda')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cayman Islands",
+			"byExpr" : "//a[contains(text(),'Cayman Islands')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Costa Rica",
+			"byExpr" : "//a[contains(text(),'Costa Rica')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "El Salvador",
+			"byExpr" : "//a[contains(text(),'El Salvador')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Honduras",
+			"byExpr" : "//a[contains(text(),'Honduras')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Per",
+			"byExpr" : "//a[contains(text(),'Perú')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "United States",
+			"byExpr" : "//a[contains(text(),'United States')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Uruguay",
+			"byExpr" : "//a[contains(text(),'Uruguay')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cancel",
+			"byExpr" : "//a[contains(text(),'Cancel')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Continue",
+			"byExpr" : "nextCob",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip",
+			"byExpr" : "skip",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Browserlink",
+			"byExpr" : "browserlink",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Next Cob",
+			"byExpr" : "nextCob",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Launch Cob",
+			"byExpr" : "launchCob",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Restart Cob",
+			"byExpr" : "restartCob",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip Page Header And Navigation 2",
+			"byExpr" : "skip",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Personal 3",
+			"byExpr" : "//a[contains(text(),'Personal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Business 3",
+			"byExpr" : "//a[contains(text(),'Business')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Registration",
+			"byExpr" : "//a[contains(text(),'registration')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Registered",
+			"byExpr" : "//a[contains(text(),'registered')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find Out More 2",
+			"byExpr" : "//a[contains(text(),'Find out more')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Register 2",
+			"byExpr" : "//a[contains(text(),'Register')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip To Borrowing Navigation",
+			"byExpr" : "//a[contains(text(),'Skip to Borrowing navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Current Accounts 2",
+			"byExpr" : "//a[contains(text(),'Current accounts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Account 3",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Advance Account 3",
+			"byExpr" : "//a[contains(text(),'HSBC Advance Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Student Account 2",
+			"byExpr" : "//a[contains(text(),'HSBC Student Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bank Account 3",
+			"byExpr" : "//a[contains(text(),'Bank Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Savings 2",
+			"byExpr" : "//a[contains(text(),'Savings')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "ISAs 3",
+			"byExpr" : "//a[contains(text(),'ISAs')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Online Bonus Saver 3",
+			"byExpr" : "//a[contains(text(),'Online Bonus Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexible Saver 3",
+			"byExpr" : "//a[contains(text(),'Flexible Saver')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Credit Cards 2",
+			"byExpr" : "//a[contains(text(),'Credit cards')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Credit Cards",
+			"byExpr" : "//a[contains(text(),'HSBC Credit Cards')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Credit Card 2",
+			"byExpr" : "//a[contains(text(),'Premier Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Credit Card 3",
+			"byExpr" : "//a[contains(text(),'Student Credit Card')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "International Services 2",
+			"byExpr" : "//a[contains(text(),'International services')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Currency Account 3",
+			"byExpr" : "//a[contains(text(),'HSBC Currency Account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "International Payments 3",
+			"byExpr" : "//a[contains(text(),'International Payments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Money 3",
+			"byExpr" : "//a[contains(text(),'Travel money')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Services",
+			"byExpr" : "//a[contains(text(),'Services')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways To Bank 3",
+			"byExpr" : "//a[contains(text(),'Ways to bank')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Voice ID 2",
+			"byExpr" : "//a[contains(text(),'Voice ID')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Customer Support 2",
+			"byExpr" : "//a[contains(text(),'Customer support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Find A Branch 3",
+			"byExpr" : "//a[contains(text(),'Find a Branch')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "More Than Just A Current Account",
+			"byExpr" : "//a[contains(text(),'More than just a current account')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premium Banking Without The Premium",
+			"byExpr" : "//a[contains(text(),'Premium banking without the premium')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip To Investing Navigation",
+			"byExpr" : "//a[contains(text(),'Skip to Investing navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Loans 2",
+			"byExpr" : "//a[contains(text(),'Loans')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Personal Loan 3",
+			"byExpr" : "//a[contains(text(),'Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Flexiloan 2",
+			"byExpr" : "//a[contains(text(),'Flexiloan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Personal Loan 3",
+			"byExpr" : "//a[contains(text(),'Premier Personal Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Graduate Loan 3",
+			"byExpr" : "//a[contains(text(),'Graduate Loan')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgages 2",
+			"byExpr" : "//a[contains(text(),'Mortgages')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "First Time Buyer 3",
+			"byExpr" : "//a[contains(text(),'First time buyer')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 95 Mortgages",
+			"byExpr" : "//a[contains(text(),'95% Mortgages')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Remortgage 2",
+			"byExpr" : "//a[contains(text(),'Remortgage')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Buy To Let 3",
+			"byExpr" : "//a[contains(text(),'Buy to let')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Existing Customers 2",
+			"byExpr" : "//a[contains(text(),'Existing customers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Rates 2",
+			"byExpr" : "//a[contains(text(),'Mortgage rates')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Armed Forces Personnel 2",
+			"byExpr" : "//a[contains(text(),'Armed Forces personnel')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Credit Cards",
+			"byExpr" : "//a[contains(text(),'Premier Credit Cards')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overdrafts",
+			"byExpr" : "//a[contains(text(),'Overdrafts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Help Amp Support 3",
+			"byExpr" : "//a[contains(text(),'Help &amp; Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Tools Amp Guides",
+			"byExpr" : "//a[contains(text(),'Tools &amp; Guides')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Calculator 2",
+			"byExpr" : "//a[contains(text(),'Mortgage calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Overpayment Calculator 3",
+			"byExpr" : "//a[contains(text(),'Overpayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Repayment Calculator 3",
+			"byExpr" : "//a[contains(text(),'Repayment calculator')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Base Rate Information 2",
+			"byExpr" : "//a[contains(text(),'Base rate information')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Access To Preferential Rates And Terms",
+			"byExpr" : "//a[contains(text(),'Access to preferential rates and terms')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ask About Our Buy To Let Mortgages",
+			"byExpr" : "//a[contains(text(),'Ask about our buy to let mortgages')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip To Insurance Navigation",
+			"byExpr" : "//a[contains(text(),'Skip to Insurance navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investments 2",
+			"byExpr" : "//a[contains(text(),'Investments')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investment Funds 3",
+			"byExpr" : "//a[contains(text(),'Investment funds')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "World Selection ISA 2",
+			"byExpr" : "//a[contains(text(),'World Selection ISA')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Sharedealing 3",
+			"byExpr" : "//a[contains(text(),'Sharedealing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Premier Financial Advice 3",
+			"byExpr" : "//a[contains(text(),'HSBC Premier Financial Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Stand Alone Investment Advice 2",
+			"byExpr" : "//a[contains(text(),'HSBC Stand-alone Investment Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Onshore Investment Bond 2",
+			"byExpr" : "//a[contains(text(),'HSBC Onshore Investment Bond')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Child Trust Fund 3",
+			"byExpr" : "//a[contains(text(),'Child Trust Fund')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Financial News Amp Analysis",
+			"byExpr" : "//a[contains(text(),'Financial news &amp; analysis')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Why Invest With Us 2",
+			"byExpr" : "//a[contains(text(),'Why invest with us?')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Global Investment Centre 2",
+			"byExpr" : "//a[contains(text(),'Global Investment Centre')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investments Contacts 2",
+			"byExpr" : "//a[contains(text(),'Investments contacts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Existing Selected Investments Customers 2",
+			"byExpr" : "//a[contains(text(),'Existing Selected Investments Customers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Getting Started With Investing 2",
+			"byExpr" : "//a[contains(text(),'Getting started with investing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Access To Wealth Management Expertise",
+			"byExpr" : "//a[contains(text(),'Access to wealth management expertise')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip To Planning Navigation",
+			"byExpr" : "//a[contains(text(),'Skip to Planning navigation')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Insurance",
+			"byExpr" : "//a[contains(text(),'Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance 3",
+			"byExpr" : "//a[contains(text(),'Home Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance 3",
+			"byExpr" : "//a[contains(text(),'Travel Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Student Insurance 2",
+			"byExpr" : "//a[contains(text(),'Student Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Insurance",
+			"byExpr" : "//a[contains(text(),'Life Insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Cover 2",
+			"byExpr" : "//a[contains(text(),'Life Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Critical Illness Cover 2",
+			"byExpr" : "//a[contains(text(),'Critical Illness Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Income Cover 2",
+			"byExpr" : "//a[contains(text(),'Income Cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Telephone Protection Advice 2",
+			"byExpr" : "//a[contains(text(),'Telephone Protection Advice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Insurance Claims",
+			"byExpr" : "//a[contains(text(),'Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Insurance Claims 3",
+			"byExpr" : "//a[contains(text(),'Home Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Travel Insurance Claims 3",
+			"byExpr" : "//a[contains(text(),'Travel Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Car Insurance Claims 2",
+			"byExpr" : "//a[contains(text(),'Car Insurance Claims')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Customers",
+			"byExpr" : "//a[contains(text(),'Premier Customers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Helping You Take Care Of The Things That Count",
+			"byExpr" : "//a[contains(text(),'Helping you take care of the things that count')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Benefits For You Your Partner And Your Children",
+			"byExpr" : "//a[contains(text(),'Benefits for you, your partner and your children')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip To Main Content",
+			"byExpr" : "//a[contains(text(),'Skip to main content')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Events 2",
+			"byExpr" : "//a[contains(text(),'Life events')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Bereavement Support 3",
+			"byExpr" : "//a[contains(text(),'Bereavement support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Separation Support 3",
+			"byExpr" : "//a[contains(text(),'Separation support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Settling In The UK 3",
+			"byExpr" : "//a[contains(text(),'Settling in the UK')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Getting Married 3",
+			"byExpr" : "//a[contains(text(),'Getting married')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Planning Your Retirement 3",
+			"byExpr" : "//a[contains(text(),'Planning your retirement')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Growing Your Wealth 3",
+			"byExpr" : "//a[contains(text(),'Growing your wealth')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Moving Abroad 3",
+			"byExpr" : "//a[contains(text(),'Moving abroad')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Planning Tools 2",
+			"byExpr" : "//a[contains(text(),'Planning tools')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Financial Health Check 3",
+			"byExpr" : "//a[contains(text(),'Financial health check')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Protecting What Matters 2",
+			"byExpr" : "//a[contains(text(),'Protecting what matters')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Learn More 3",
+			"byExpr" : "//a[contains(text(),'Learn more')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Ways We Can Help 3",
+			"byExpr" : "//a[contains(text(),'Ways we can help')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Frequently Asked Questions 3",
+			"byExpr" : "//a[contains(text(),'Frequently asked questions')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Individual Review",
+			"byExpr" : "//a[contains(text(),'Individual Review')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Book Your Review Today For A Quick Financial Checkup 2",
+			"byExpr" : "//a[contains(text(),'Book your review today for a quick financial checkup')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Book An Individual Review Of Your Finances",
+			"byExpr" : "//a[contains(text(),'Book an individual review of your finances')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Book An Appointment With One Of Our Experts",
+			"byExpr" : "//a[contains(text(),'Book an appointment with one of our experts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cookie NbspPolicy",
+			"byExpr" : "//a[contains(text(),'Cookie&nbsp;Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home",
+			"byExpr" : "//a[contains(text(),'Home')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Website Feedback 2",
+			"byExpr" : "//a[contains(text(),'Website feedback')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Share",
+			"byExpr" : "//a[contains(text(),'Share')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Print",
+			"byExpr" : "//a[contains(text(),'Print')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Cookie Policy 3",
+			"byExpr" : "//a[contains(text(),'Cookie Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Back To Top",
+			"byExpr" : "//a[contains(text(),'Back to top')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Saving Accounts",
+			"byExpr" : "//a[contains(text(),'Saving accounts')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Investing",
+			"byExpr" : "//a[contains(text(),'Investing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Everyday Banking",
+			"byExpr" : "//a[contains(text(),'Everyday banking')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Switching To HSBC 3",
+			"byExpr" : "//a[contains(text(),'Switching to HSBC')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Security Centre 2",
+			"byExpr" : "//a[contains(text(),'Security centre')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Card Support 2",
+			"byExpr" : "//a[contains(text(),'Card support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Online Banking",
+			"byExpr" : "//a[contains(text(),'Online Banking')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Expat 2",
+			"byExpr" : "//a[contains(text(),'HSBC Expat')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Private Bank",
+			"byExpr" : "//a[contains(text(),'HSBC Private Bank')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Borrowing",
+			"byExpr" : "//a[contains(text(),'Borrowing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Mortgage Calculators",
+			"byExpr" : "//a[contains(text(),'Mortgage calculators')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Car Insurance",
+			"byExpr" : "//a[contains(text(),'Car insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Premier Car Insurance",
+			"byExpr" : "//a[contains(text(),'Premier car insurance')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Life Critical Illness Amp Income Cover",
+			"byExpr" : "//a[contains(text(),'Life, critical illness &amp; income cover')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Health Amp Family",
+			"byExpr" : "//a[contains(text(),'Health &amp; family')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Home Amp Lifestyle",
+			"byExpr" : "//a[contains(text(),'Home &amp; lifestyle')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Work Amp Retirement",
+			"byExpr" : "//a[contains(text(),'Work &amp; retirement')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "About HSBC 2",
+			"byExpr" : "//a[contains(text(),'About HSBC')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Site Map 2",
+			"byExpr" : "//a[contains(text(),'Site map')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "News And Media",
+			"byExpr" : "//a[contains(text(),'News and media')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Legal 3",
+			"byExpr" : "//a[contains(text(),'Legal')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Privacy Notice 3",
+			"byExpr" : "//a[contains(text(),'Privacy Notice')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Accessibility 3",
+			"byExpr" : "//a[contains(text(),'Accessibility')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Careers",
+			"byExpr" : "//a[contains(text(),'Careers')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "HSBC Group 2",
+			"byExpr" : "//a[contains(text(),'HSBC Group')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "UK Ring Fencing 2",
+			"byExpr" : "//a[contains(text(),'UK Ring-fencing')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 70G3UNU10SD0MHTI7H4D1000000",
+			"byExpr" : "7_0G3UNU10SD0MHTI7H4D1000000",
+			"byType" : "name",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Skip 2",
+			"byExpr" : "skip",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 70G3UNU10SD0MHTI7J4D1000000",
+			"byExpr" : "7_0G3UNU10SD0MHTI7J4D1000000",
+			"byType" : "name",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 7H2I8H042H865C0AM2V2O1G3GL4",
+			"byExpr" : "7_H2I8H042H865C0AM2V2O1G3GL4",
+			"byType" : "name",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Doormat 0",
+			"byExpr" : "doormat0",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Doormat 1",
+			"byExpr" : "doormat1",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Doormat 2",
+			"byExpr" : "doormat2",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Doormat 3",
+			"byExpr" : "doormat3",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Doormat 4",
+			"byExpr" : "doormat4",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Twitter Share",
+			"byExpr" : "twitterShare",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Facebook Share",
+			"byExpr" : "facebookShare",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Digg Share",
+			"byExpr" : "diggShare",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Reddit Share",
+			"byExpr" : "redditShare",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Continue Btn 2",
+			"byExpr" : "continueBtn2",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Download Link",
+			"byExpr" : "download_link",
+			"byType" : "id",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 7084AOUNTGE0MH7LP30D0000000",
+			"byExpr" : "7_084AOUNTGE0MH7LP30D0000000",
+			"byType" : "name",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : " 70G3UNU10SD0MHTI7K4D1000000",
+			"byExpr" : "7_0G3UNU10SD0MHTI7K4D1000000",
+			"byType" : "name",
+			"htmlType" : "a"
+		}
+		]
+}

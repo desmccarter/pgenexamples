@@ -1,0 +1,67 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Userid",
+			"byExpr" : "Username1",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Continue",
+			"byExpr" : "//input[contains(text(),'null')]",
+			"byType" : "xpath",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Cookieuserid",
+			"byExpr" : "cookieuserid",
+			"byType" : "id",
+			"htmlType" : "checkbox"
+		}
+		,
+		{
+			"name" : "Id Session",
+			"byExpr" : "cobrowseIDSession1",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Checkbox",
+			"byExpr" : "checkbox",
+			"byType" : "id",
+			"htmlType" : "checkbox"
+		}
+		,
+		{
+			"name" : "Fermer Cob 1",
+			"byExpr" : "fermerCob1",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 2",
+			"byExpr" : "fermerCob2",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 3",
+			"byExpr" : "fermerCob3",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Fermer Cob 4",
+			"byExpr" : "fermerCob4",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		]
+}

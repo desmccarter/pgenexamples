@@ -1,0 +1,137 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Email Or Phone",
+			"byExpr" : "fa277a5ab35c04",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Full Name",
+			"byExpr" : "f3976b5df8acb6c",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Username",
+			"byExpr" : "f28af536ea8dcbc",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Password",
+			"byExpr" : "f3252bcf59a3c88",
+			"byType" : "id",
+			"htmlType" : "password"
+		}
+		,
+		{
+			"name" : "Next",
+			"byExpr" : "//button[contains(text(),'Next')]",
+			"byType" : "xpath",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : " Option Value AfAfrikaans Option Option Value Cs E Tina Option Option Value DaDansk Option Option Value DeDeutsch Option Option Value El Option Option Value EnEnglish Option Option Value EsEspa Ol Espa A Option Option Value Es LaEspa Ol Option Option Value FiSuomi Option Option Value FrFran Ais Option Option Value IdBahasa Indonesia Option Option Value ItItaliano Option Option Value Ja Option Option Value Ko Option Option Value MsBahasa Melayu Option Option Value NbNorsk Option Option Value NlNederlands Option Option Value PlPolski Option Option Value Pt BrPortugu S Brasil Option Option Value PtPortugu S Portugal Option Option Value Ru Option Option Value SvSvenska Option Option Value Th Option Option Value TlFilipino Option Option Value TrT Rk E Option Option Value Zh Cn Option Option Value Zh Tw Option Option Value Bn Option Option Value Gu Option Option Value Hi Option Option Value HrHrvatski Option Option Value HuMagyar Option Option Value Kn Option Option Value Ml Option Option Value Mr Option Option Value Ne Option Option Value Pa Option Option Value Si Option Option Value SkSloven Ina Option Option Value Ta Option Option Value Te Option Option Value ViTi Ng Vi T Option Option Value Zh Hk Option Option Value Bg Option Option Value Fr CaFran Ais Canada Option Option Value RoRom N Option Option Value Sr Option Option Value Uk Option",
+			"byExpr" : "//select[contains(text(),'<option value="af">Afrikaans</option><option value="cs">Čeština</option><option value="da">Dansk</option><option value="de">Deutsch</option><option value="el">Ελληνικά</option><option value="en">English</option><option value="es">Español (España)</option><option value="es-la">Español</option><option value="fi">Suomi</option><option value="fr">Français</option><option value="id">Bahasa Indonesia</option><option value="it">Italiano</option><option value="ja">日本語</option><option value="ko">한국어</option><option value="ms">Bahasa Melayu</option><option value="nb">Norsk</option><option value="nl">Nederlands</option><option value="pl">Polski</option><option value="pt-br">Português (Brasil)</option><option value="pt">Português (Portugal)</option><option value="ru">Ру�?�?кий</option><option value="sv">Svenska</option><option value="th">ภาษาไทย</option><option value="tl">Filipino</option><option value="tr">Türkçe</option><option value="zh-cn">中文(简体)</option><option value="zh-tw">中文(�?��?�)</option><option value="bn">বাংলা</option><option value="gu">ગ�?જરાતી</option><option value="hi">हिन�?दी</option><option value="hr">Hrvatski</option><option value="hu">Magyar</option><option value="kn">ಕನ�?ನಡ</option><option value="ml">മലയാളം</option><option value="mr">मराठी</option><option value="ne">नेपाली</option><option value="pa">ਪੰਜਾਬੀ</option><option value="si">සිංහල</option><option value="sk">Sloven�?ina</option><option value="ta">தமிழ�?</option><option value="te">తెల�?గ�?</option><option value="vi">Tiếng Việt</option><option value="zh-hk">中文(香港)</option><option value="bg">Българ�?ки</option><option value="fr-ca">Français (Canada)</option><option value="ro">Română</option><option value="sr">Срп�?ки</option><option value="uk">Україн�?ька</option>')]",
+			"byType" : "xpath",
+			"htmlType" : "select"
+		}
+		,
+		{
+			"name" : "Cookies Policy",
+			"byExpr" : "//a[contains(text(),'Cookies Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Terms",
+			"byExpr" : "//a[contains(text(),'Terms')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Data Policy",
+			"byExpr" : "//a[contains(text(),'Data Policy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Log In",
+			"byExpr" : "//a[contains(text(),'Log in')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "About Us",
+			"byExpr" : "//a[contains(text(),'About us')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Support",
+			"byExpr" : "//a[contains(text(),'Support')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Press",
+			"byExpr" : "//a[contains(text(),'Press')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "API",
+			"byExpr" : "//a[contains(text(),'API')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Jobs",
+			"byExpr" : "//a[contains(text(),'Jobs')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Privacy",
+			"byExpr" : "//a[contains(text(),'Privacy')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Directory",
+			"byExpr" : "//a[contains(text(),'Directory')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Profiles",
+			"byExpr" : "//a[contains(text(),'Profiles')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		,
+		{
+			"name" : "Hashtags",
+			"byExpr" : "//a[contains(text(),'Hashtags')]",
+			"byType" : "xpath",
+			"htmlType" : "a"
+		}
+		]
+}

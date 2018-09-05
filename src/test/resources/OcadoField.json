@@ -1,0 +1,103 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Entry",
+			"byExpr" : "findText",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Customer Registration Offers Flag",
+			"byExpr" : "offersOptIn",
+			"byType" : "id",
+			"htmlType" : "checkbox"
+		}
+		,
+		{
+			"name" : "Customer First Name",
+			"byExpr" : "customer.firstName",
+			"byType" : "name",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Customer Last Name",
+			"byExpr" : "customer.lastName",
+			"byType" : "name",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Customer Login",
+			"byExpr" : "customer.login",
+			"byType" : "name",
+			"htmlType" : "email"
+		}
+		,
+		{
+			"name" : "Customer Password",
+			"byExpr" : "customer.password",
+			"byType" : "name",
+			"htmlType" : "password"
+		}
+		,
+		{
+			"name" : "Postcode",
+			"byExpr" : "postcode",
+			"byType" : "name",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Search",
+			"byExpr" : "//button[contains(text(),'Search')]",
+			"byType" : "xpath",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Register Using Pay Pal",
+			"byExpr" : "//button[contains(text(),'                    Register using PayPal                ')]",
+			"byType" : "xpath",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Register",
+			"byExpr" : "//button[contains(text(),'            Register        ')]",
+			"byType" : "xpath",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Multi Search Link",
+			"byExpr" : "multiSearchLink",
+			"byType" : "name",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Button Register Submit",
+			"byExpr" : "buttonRegisterSubmit",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Customer Title",
+			"byExpr" : "customer.title",
+			"byType" : "id",
+			"htmlType" : "select",
+			"options" : [
+				"Mrs",
+				"Miss",
+				"Ms",
+				"Mr",
+				"Mx",
+				"Dr"
+			]
+		}
+		]
+}

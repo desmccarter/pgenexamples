@@ -1,0 +1,109 @@
+{
+	"elements":
+		[
+		{
+			"name" : "Email",
+			"byExpr" : "email",
+			"byType" : "id",
+			"htmlType" : "email"
+		}
+		,
+		{
+			"name" : "Pass",
+			"byExpr" : "pass",
+			"byType" : "id",
+			"htmlType" : "password"
+		}
+		,
+		{
+			"name" : "Log In",
+			"byExpr" : "u_0_2",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "Firstname",
+			"byExpr" : "u_0_l",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Lastname",
+			"byExpr" : "u_0_n",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Reg Email",
+			"byExpr" : "u_0_q",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Reg Email Confirmation",
+			"byExpr" : "u_0_t",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Reg Second Contactpoint",
+			"byExpr" : "u_0_v",
+			"byType" : "id",
+			"htmlType" : "text"
+		}
+		,
+		{
+			"name" : "Reg Passwd",
+			"byExpr" : "u_0_x",
+			"byType" : "id",
+			"htmlType" : "password"
+		}
+		,
+		{
+			"name" : "Sex",
+			"byExpr" : "u_0_9",
+			"byType" : "id",
+			"htmlType" : "radio"
+		}
+		,
+		{
+			"name" : "Remove",
+			"byExpr" : "u_0_j",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Sign Up",
+			"byExpr" : "u_0_13",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "U 0 J",
+			"byExpr" : "u_0_j",
+			"byType" : "id",
+			"htmlType" : "button"
+		}
+		,
+		{
+			"name" : "Websubmit",
+			"byExpr" : "u_0_13",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		,
+		{
+			"name" : "U 016",
+			"byExpr" : "u_0_16",
+			"byType" : "id",
+			"htmlType" : "submit"
+		}
+		]
+}
